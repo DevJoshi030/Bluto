@@ -22,8 +22,7 @@ setup(
         "requests[security]",
         "pythonwhois",
         "lxml",
-        "oletools",
-        "pdfminer"
+        "oletools"
     ],
 )
 
